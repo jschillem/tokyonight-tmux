@@ -28,7 +28,7 @@ setw() {
 
 main() {
 local theme
-  theme="onedark"
+  theme="tokyonight"
 
   # Aggregate all commands in one array
   local tmux_commands=()
